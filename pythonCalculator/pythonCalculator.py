@@ -30,5 +30,5 @@ test3 = subtraction(9,2)
 test4 = subtraction(8,8)
 test5 = multiplication(9,2)
 test6 = multiplication(2,2)
-test8 = multiplication(,2)
+test8 = multiplication(5,2)
 
